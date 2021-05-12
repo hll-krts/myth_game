@@ -23,6 +23,8 @@ If you press that key again, it should go back to normal.
 
 * Bgm isn't replaying.
 
+* If you die or press ´retry´ game will instantly start.
+
 ## Credits:
 
 Twitter [Walfie](https://twitter.com/walfieee) - characters 
