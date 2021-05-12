@@ -25,10 +25,16 @@ If you press that key again, it should go back to normal.
 
 ## Credits:
 
-[Walfie] (https://twitter.com/walfieee) - characters (his Twitter account)
+Twitter [Walfie](https://twitter.com/walfieee) - characters 
 
-[KevinCow] (https://twitter.com/KevinCow) - the idea of using Smol Ame (his Twitter account)
+Twitter [KevinCow](https://twitter.com/KevinCow) - the idea of using Smol Ame
 
-[Holobass] (https://www.youtube.com/channel/UC_je6fYFlPvswP9doc2JFWg/videos) - bgm (his YouTube channel)
+YouTube [Holobass](https://www.youtube.com/channel/UC_je6fYFlPvswP9doc2JFWg/videos) - bgm
 
+YouTube [Bakuretsu](https://www.youtube.com/watch?v=Rwd5v5s516Q) - Ame's "hic" sound
+
+Youtube [Natsuki Mogi](https://www.youtube.com/watch?v=1Uzw1Zr1FE4) - Gura's "A" sound
+
+## A Screenshot
+![image](https://user-images.githubusercontent.com/56218889/117978712-d7819180-b33a-11eb-9eb5-12bea033dea3.png)
 
