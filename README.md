@@ -40,3 +40,4 @@ Youtube [Natsuki Mogi](https://www.youtube.com/watch?v=1Uzw1Zr1FE4) - Gura's "A"
 ## A Screenshot
 ![image](https://user-images.githubusercontent.com/56218889/117978712-d7819180-b33a-11eb-9eb5-12bea033dea3.png)
 
+### To play the game click this link -> http://myth.eu5.org
