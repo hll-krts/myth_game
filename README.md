@@ -17,8 +17,6 @@ You can use ´WASD´ or ´arrow keys´
 * If you were pressing a key while Gura hits you, I suggest you to refresh the page because it detects you're still pressing that key. 
 If you press that key again, it should go back to normal.
 
-* If you press ´start´ button a couple times game gets faster.
-
 * Bgm won't stop if you pause.
 
 * Bgm isn't replaying.
