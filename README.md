@@ -6,7 +6,7 @@ Gura tries to hit Ame with her single shot but randomly generated bullet speed g
 Ame's mission is simple: Dodge every bullet she can.
 
 ## How to play?
-You can use ´WASD´ or ´arrow keys´
+You can use ´ WASD ´ or ´arrow keys´
 
 * W and Up arrow key is jump
 * A and Left arrow key is move left
